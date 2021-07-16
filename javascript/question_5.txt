@@ -2,7 +2,7 @@
 
 Test cases:
 
-No	Input		    Expected Output
+No	Input		      Expected Output
 1	[2,3,5,2,5]	    Sum of numbers in the given array = 17
 2	[4,3,-4,-3]	    Sum of numbers in the given array = 0
-3	[6,0,2,'a',4]	Sum of numbers in the given array = 12
+3	[6,0,2,'a',4]	  Sum of numbers in the given array = 12
