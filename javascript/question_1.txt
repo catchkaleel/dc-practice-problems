@@ -1,0 +1,8 @@
+1)	Write a function named "printOddOrEven(n)" where 'n' is a parameter. The function should check if the given number is odd or even and print as per expected output given below.
+
+No	Input	Expected Output
+1	8	    The given number 8 is even
+2	9	    The given number 9 is odd
+3	A	    Number input expected
+4	-10	    The given number -10 is even and negative
+5	-13	    The given number -13 is odd and negative

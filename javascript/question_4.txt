@@ -1,0 +1,2 @@
+4)	Write a function named "printPrimeNumbersLessThan100()" to print all the prime numbers less than 100. Note: 
+A prime number is a number which can be divided by 1 and by itself alone. For example, 11, 13, 67 etc., are prime numbers.
